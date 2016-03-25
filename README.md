@@ -1,11 +1,10 @@
-# glossary
-术语表
+# Glossary 术语表
 
-
-# 关于一些名词的写法纠正
+# 使用书面名词时的正确姿势 :3
 
 注意，是在作为名词的时候才是这样写，比如代码里面就不用了。
 
+```
 * Ruby China 而不是 ruby china 或 ruby-china 或 Ruby china
 * Mac OS X 而不是 mac osx 或 mac os 或 mac os x
 * iPhone 而不是 iphone 或 IPHONE 或 Iphone
@@ -28,3 +27,5 @@
 * Nginx 而不是 NGINX
 * Emacs 而不是 EMacs 或 EMACS
 * Vim/vim 而不是 VIM
+```
+引用来源: 由 [huacnlee](https://ruby-china.org/huacnlee) 发表在 [Ruby China](https://ruby-china.org/topics/3298) 上, 对原文有改动, 但基本保持原意.
