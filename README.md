@@ -6,7 +6,8 @@
 
 ```
 * Ruby China 而不是 ruby china 或 ruby-china 或 Ruby china
-* Mac OS X 而不是 mac osx 或 mac os 或 mac os x
+* Mac OS X 而不是 mac osx 或 mac os 或 mac os x 
+  > 更新: 最新写法为 macOS, 如 macOS High Sierra
 * iPhone 而不是 iphone 或 IPHONE 或 Iphone
 * App Store 而不是 app store 或 App store
 * iOS 而不是 ios 或 Ios 或 IOS
